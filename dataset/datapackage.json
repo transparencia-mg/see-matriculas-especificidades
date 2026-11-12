@@ -8,7 +8,7 @@
       "dialect": {
         "delimiter": ";"
       },
-      "encoding": "utf-8",
+      "encoding": "utf-8-sig",
       "format": "csv",
       "hashing": "md5",
       "name": "see-matriculas-especificidades-2023",
@@ -62,7 +62,7 @@
       "dialect": {
         "delimiter": ";"
       },
-      "encoding": "utf-8",
+      "encoding": "utf-8-sig",
       "format": "csv",
       "hashing": "md5",
       "name": "see-matriculas-especificidades-2024",
@@ -116,7 +116,7 @@
       "dialect": {
         "delimiter": ";"
       },
-      "encoding": "utf-8",
+      "encoding": "utf-8-sig",
       "format": "csv",
       "hashing": "md5",
       "name": "see-matriculas-especificidades-2025",
@@ -170,7 +170,7 @@
       "dialect": {
         "delimiter": ";"
       },
-      "encoding": "utf-8",
+      "encoding": "utf-8-sig",
       "format": "csv",
       "hashing": "md5",
       "name": "see-matriculas-especificidades-2026",
