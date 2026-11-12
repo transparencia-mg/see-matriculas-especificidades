@@ -1,5 +1,3 @@
-# Matrículas da rede estadual por especificidade
-
 Quantidade mensal de matrículas da rede estadual de ensino de Minas Gerais em turmas com especificidades, por Superintendência Regional de Ensino (SRE) e município, de fevereiro a dezembro de cada ano letivo, a partir de 2023.
 
 **Especificidades:** Educação Especial - AEE (Sala de Recursos), Educação Especial - Escola Exclusiva, Quilombola, Indígena, Socioeducativo e Prisional.
