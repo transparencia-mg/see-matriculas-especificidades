@@ -1,11 +1,11 @@
 {
   "version": "4.16.6",
-  "time": 0.188,
+  "time": 0.379,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Matrículas da rede estadual de Minas Gerais por especificidade da turma, SRE, município e mês, ano letivo 2023.",
         "dialect": {
           "delimiter": ";"
         },
@@ -19,44 +19,62 @@
           "fields": [
             {
               "name": "ano",
-              "type": "integer"
+              "type": "integer",
+              "title": "Ano letivo",
+              "description": "Ano letivo das matrículas."
             },
             {
               "name": "mes",
-              "type": "integer"
+              "type": "integer",
+              "title": "Mês de referência",
+              "description": "Mês de referência (2 = fevereiro a 12 = dezembro). A contagem considera as matrículas ativas no último dia do mês."
             },
             {
               "name": "cod_sre",
-              "type": "integer"
+              "type": "string",
+              "title": "Código da SRE",
+              "description": "Código da Superintendência Regional de Ensino (SRE), com 6 dígitos."
             },
             {
               "name": "nome_sre",
-              "type": "string"
+              "type": "string",
+              "title": "Nome da SRE",
+              "description": "Nome da Superintendência Regional de Ensino."
             },
             {
               "name": "cod_municipio_ibge",
-              "type": "integer"
+              "type": "string",
+              "title": "Código IBGE do município",
+              "description": "Código IBGE do município (7 dígitos) do endereço de funcionamento da turma."
             },
             {
               "name": "nome_municipio",
-              "type": "string"
+              "type": "string",
+              "title": "Município",
+              "description": "Nome do município."
             },
             {
               "name": "especificidade",
-              "type": "string"
+              "type": "string",
+              "title": "Especificidade",
+              "description": "Especificidade da turma: Educação Especial - AEE (Sala de Recursos), Educação Especial - Escola Exclusiva, Quilombola, Indígena, Socioeducativo ou Prisional. As categorias não são exclusivas e não devem ser somadas entre si. AEE (Sala de Recursos) disponível a partir de 2026."
             },
             {
               "name": "qtd_matriculas",
-              "type": "integer"
+              "type": "integer",
+              "title": "Quantidade de matrículas",
+              "description": "Quantidade de matrículas ativas no último dia do mês. Vazio quando o valor foi suprimido (1 a 4 matrículas) para proteção de dados pessoais (LGPD)."
             },
             {
               "name": "suprimido",
-              "type": "string"
+              "type": "string",
+              "title": "Valor suprimido",
+              "description": "S = quantidade ocultada para proteção de dados pessoais (LGPD); N = quantidade divulgada."
             }
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Matrículas por especificidade - 2023",
         "stats": {
           "hash": "5dd0f4c93adf26c382d9e77a13503ffc",
           "bytes": 131738,
@@ -64,7 +82,7 @@
           "rows": 1887
         }
       },
-      "time": 0.028,
+      "time": 0.055,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -94,7 +112,7 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Matrículas da rede estadual de Minas Gerais por especificidade da turma, SRE, município e mês, ano letivo 2024.",
         "dialect": {
           "delimiter": ";"
         },
@@ -108,44 +126,62 @@
           "fields": [
             {
               "name": "ano",
-              "type": "integer"
+              "type": "integer",
+              "title": "Ano letivo",
+              "description": "Ano letivo das matrículas."
             },
             {
               "name": "mes",
-              "type": "integer"
+              "type": "integer",
+              "title": "Mês de referência",
+              "description": "Mês de referência (2 = fevereiro a 12 = dezembro). A contagem considera as matrículas ativas no último dia do mês."
             },
             {
               "name": "cod_sre",
-              "type": "integer"
+              "type": "string",
+              "title": "Código da SRE",
+              "description": "Código da Superintendência Regional de Ensino (SRE), com 6 dígitos."
             },
             {
               "name": "nome_sre",
-              "type": "string"
+              "type": "string",
+              "title": "Nome da SRE",
+              "description": "Nome da Superintendência Regional de Ensino."
             },
             {
               "name": "cod_municipio_ibge",
-              "type": "integer"
+              "type": "string",
+              "title": "Código IBGE do município",
+              "description": "Código IBGE do município (7 dígitos) do endereço de funcionamento da turma."
             },
             {
               "name": "nome_municipio",
-              "type": "string"
+              "type": "string",
+              "title": "Município",
+              "description": "Nome do município."
             },
             {
               "name": "especificidade",
-              "type": "string"
+              "type": "string",
+              "title": "Especificidade",
+              "description": "Especificidade da turma: Educação Especial - AEE (Sala de Recursos), Educação Especial - Escola Exclusiva, Quilombola, Indígena, Socioeducativo ou Prisional. As categorias não são exclusivas e não devem ser somadas entre si. AEE (Sala de Recursos) disponível a partir de 2026."
             },
             {
               "name": "qtd_matriculas",
-              "type": "integer"
+              "type": "integer",
+              "title": "Quantidade de matrículas",
+              "description": "Quantidade de matrículas ativas no último dia do mês. Vazio quando o valor foi suprimido (1 a 4 matrículas) para proteção de dados pessoais (LGPD)."
             },
             {
               "name": "suprimido",
-              "type": "string"
+              "type": "string",
+              "title": "Valor suprimido",
+              "description": "S = quantidade ocultada para proteção de dados pessoais (LGPD); N = quantidade divulgada."
             }
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Matrículas por especificidade - 2024",
         "stats": {
           "hash": "7f9a4fc414a2d34a0cdeca8f2d1d8475",
           "bytes": 135880,
@@ -153,7 +189,7 @@
           "rows": 1954
         }
       },
-      "time": 0.036,
+      "time": 0.077,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -183,7 +219,7 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Matrículas da rede estadual de Minas Gerais por especificidade da turma, SRE, município e mês, ano letivo 2025.",
         "dialect": {
           "delimiter": ";"
         },
@@ -197,44 +233,62 @@
           "fields": [
             {
               "name": "ano",
-              "type": "integer"
+              "type": "integer",
+              "title": "Ano letivo",
+              "description": "Ano letivo das matrículas."
             },
             {
               "name": "mes",
-              "type": "integer"
+              "type": "integer",
+              "title": "Mês de referência",
+              "description": "Mês de referência (2 = fevereiro a 12 = dezembro). A contagem considera as matrículas ativas no último dia do mês."
             },
             {
               "name": "cod_sre",
-              "type": "integer"
+              "type": "string",
+              "title": "Código da SRE",
+              "description": "Código da Superintendência Regional de Ensino (SRE), com 6 dígitos."
             },
             {
               "name": "nome_sre",
-              "type": "string"
+              "type": "string",
+              "title": "Nome da SRE",
+              "description": "Nome da Superintendência Regional de Ensino."
             },
             {
               "name": "cod_municipio_ibge",
-              "type": "integer"
+              "type": "string",
+              "title": "Código IBGE do município",
+              "description": "Código IBGE do município (7 dígitos) do endereço de funcionamento da turma."
             },
             {
               "name": "nome_municipio",
-              "type": "string"
+              "type": "string",
+              "title": "Município",
+              "description": "Nome do município."
             },
             {
               "name": "especificidade",
-              "type": "string"
+              "type": "string",
+              "title": "Especificidade",
+              "description": "Especificidade da turma: Educação Especial - AEE (Sala de Recursos), Educação Especial - Escola Exclusiva, Quilombola, Indígena, Socioeducativo ou Prisional. As categorias não são exclusivas e não devem ser somadas entre si. AEE (Sala de Recursos) disponível a partir de 2026."
             },
             {
               "name": "qtd_matriculas",
-              "type": "integer"
+              "type": "integer",
+              "title": "Quantidade de matrículas",
+              "description": "Quantidade de matrículas ativas no último dia do mês. Vazio quando o valor foi suprimido (1 a 4 matrículas) para proteção de dados pessoais (LGPD)."
             },
             {
               "name": "suprimido",
-              "type": "string"
+              "type": "string",
+              "title": "Valor suprimido",
+              "description": "S = quantidade ocultada para proteção de dados pessoais (LGPD); N = quantidade divulgada."
             }
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Matrículas por especificidade - 2025",
         "stats": {
           "hash": "a830f48ceffdbf38094e79ee5d65eccf",
           "bytes": 136173,
@@ -242,7 +296,7 @@
           "rows": 1959
         }
       },
-      "time": 0.027,
+      "time": 0.054,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -272,7 +326,7 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Matrículas da rede estadual de Minas Gerais por especificidade da turma, SRE, município e mês, ano letivo 2026. Dados de fevereiro até o último mês encerrado.",
         "dialect": {
           "delimiter": ";"
         },
@@ -286,44 +340,62 @@
           "fields": [
             {
               "name": "ano",
-              "type": "integer"
+              "type": "integer",
+              "title": "Ano letivo",
+              "description": "Ano letivo das matrículas."
             },
             {
               "name": "mes",
-              "type": "integer"
+              "type": "integer",
+              "title": "Mês de referência",
+              "description": "Mês de referência (2 = fevereiro a 12 = dezembro). A contagem considera as matrículas ativas no último dia do mês."
             },
             {
               "name": "cod_sre",
-              "type": "integer"
+              "type": "string",
+              "title": "Código da SRE",
+              "description": "Código da Superintendência Regional de Ensino (SRE), com 6 dígitos."
             },
             {
               "name": "nome_sre",
-              "type": "string"
+              "type": "string",
+              "title": "Nome da SRE",
+              "description": "Nome da Superintendência Regional de Ensino."
             },
             {
               "name": "cod_municipio_ibge",
-              "type": "integer"
+              "type": "string",
+              "title": "Código IBGE do município",
+              "description": "Código IBGE do município (7 dígitos) do endereço de funcionamento da turma."
             },
             {
               "name": "nome_municipio",
-              "type": "string"
+              "type": "string",
+              "title": "Município",
+              "description": "Nome do município."
             },
             {
               "name": "especificidade",
-              "type": "string"
+              "type": "string",
+              "title": "Especificidade",
+              "description": "Especificidade da turma: Educação Especial - AEE (Sala de Recursos), Educação Especial - Escola Exclusiva, Quilombola, Indígena, Socioeducativo ou Prisional. As categorias não são exclusivas e não devem ser somadas entre si. AEE (Sala de Recursos) disponível a partir de 2026."
             },
             {
               "name": "qtd_matriculas",
-              "type": "integer"
+              "type": "integer",
+              "title": "Quantidade de matrículas",
+              "description": "Quantidade de matrículas ativas no último dia do mês. Vazio quando o valor foi suprimido (1 a 4 matrículas) para proteção de dados pessoais (LGPD)."
             },
             {
               "name": "suprimido",
-              "type": "string"
+              "type": "string",
+              "title": "Valor suprimido",
+              "description": "S = quantidade ocultada para proteção de dados pessoais (LGPD); N = quantidade divulgada."
             }
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Matrículas por especificidade - 2026",
         "stats": {
           "hash": "ff84c498702baa91778f69d4aeb724c8",
           "bytes": 643923,
@@ -331,7 +403,7 @@
           "rows": 6872
         }
       },
-      "time": 0.079,
+      "time": 0.149,
       "scope": [
         "hash-count-error",
         "byte-count-error",
