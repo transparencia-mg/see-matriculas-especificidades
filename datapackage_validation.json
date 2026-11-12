@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.286,
+  "time": 0.188,
   "errors": [],
   "tasks": [
     {
@@ -9,7 +9,7 @@
         "dialect": {
           "delimiter": ";"
         },
-        "encoding": "utf-8",
+        "encoding": "utf-8-sig",
         "format": "csv",
         "hashing": "md5",
         "name": "see-matriculas-especificidades-2023",
@@ -58,13 +58,13 @@
         "scheme": "file",
         "title": "Insira um título humanamente legível para este recurso.",
         "stats": {
-          "hash": "26923a6b555f75e8473c9309ed190815",
-          "bytes": 131735,
+          "hash": "5dd0f4c93adf26c382d9e77a13503ffc",
+          "bytes": 131738,
           "fields": 9,
           "rows": 1887
         }
       },
-      "time": 0.056,
+      "time": 0.028,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -98,7 +98,7 @@
         "dialect": {
           "delimiter": ";"
         },
-        "encoding": "utf-8",
+        "encoding": "utf-8-sig",
         "format": "csv",
         "hashing": "md5",
         "name": "see-matriculas-especificidades-2024",
@@ -147,13 +147,13 @@
         "scheme": "file",
         "title": "Insira um título humanamente legível para este recurso.",
         "stats": {
-          "hash": "d7451e528bcb2ab5e0f27b7c36bf37a0",
-          "bytes": 135877,
+          "hash": "7f9a4fc414a2d34a0cdeca8f2d1d8475",
+          "bytes": 135880,
           "fields": 9,
           "rows": 1954
         }
       },
-      "time": 0.049,
+      "time": 0.036,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -187,7 +187,7 @@
         "dialect": {
           "delimiter": ";"
         },
-        "encoding": "utf-8",
+        "encoding": "utf-8-sig",
         "format": "csv",
         "hashing": "md5",
         "name": "see-matriculas-especificidades-2025",
@@ -236,13 +236,13 @@
         "scheme": "file",
         "title": "Insira um título humanamente legível para este recurso.",
         "stats": {
-          "hash": "3a6666034325951ffc3d1bf9612d5af5",
-          "bytes": 136170,
+          "hash": "a830f48ceffdbf38094e79ee5d65eccf",
+          "bytes": 136173,
           "fields": 9,
           "rows": 1959
         }
       },
-      "time": 0.037,
+      "time": 0.027,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -276,7 +276,7 @@
         "dialect": {
           "delimiter": ";"
         },
-        "encoding": "utf-8",
+        "encoding": "utf-8-sig",
         "format": "csv",
         "hashing": "md5",
         "name": "see-matriculas-especificidades-2026",
@@ -325,13 +325,13 @@
         "scheme": "file",
         "title": "Insira um título humanamente legível para este recurso.",
         "stats": {
-          "hash": "494a54ec4b4dced8db19b76be3c8393d",
-          "bytes": 643661,
+          "hash": "ff84c498702baa91778f69d4aeb724c8",
+          "bytes": 643923,
           "fields": 9,
-          "rows": 6869
+          "rows": 6872
         }
       },
-      "time": 0.11,
+      "time": 0.079,
       "scope": [
         "hash-count-error",
         "byte-count-error",
