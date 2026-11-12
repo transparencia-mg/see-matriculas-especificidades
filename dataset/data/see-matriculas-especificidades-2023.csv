@@ -1,4 +1,4 @@
-ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_matriculas;suprimido
+﻿ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_matriculas;suprimido
 2023;2;000001;SRE METROPOLITANA B;3106200;BELO HORIZONTE;Educação Especial - Escola Exclusiva;128;N
 2023;2;000001;SRE METROPOLITANA B;3106200;BELO HORIZONTE;Prisional;64;N
 2023;2;000001;SRE METROPOLITANA B;3106200;BELO HORIZONTE;Socioeducativo;17;N

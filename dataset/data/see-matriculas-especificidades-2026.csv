@@ -1,4 +1,4 @@
-ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_matriculas;suprimido
+﻿ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_matriculas;suprimido
 2026;2;000001;SRE METROPOLITANA B;3106200;BELO HORIZONTE;Educação Especial - AEE (Sala de Recursos);48;N
 2026;2;000001;SRE METROPOLITANA B;3106200;BELO HORIZONTE;Educação Especial - Escola Exclusiva;131;N
 2026;2;000001;SRE METROPOLITANA B;3106200;BELO HORIZONTE;Prisional;74;N
@@ -401,6 +401,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;2;000027;SRE VARGINHA;3169406;TRÊS PONTAS;Educação Especial - AEE (Sala de Recursos);16;N
 2026;2;000027;SRE VARGINHA;3170701;VARGINHA;Prisional;70;N
 2026;2;000028;SRE UBA;3104601;ASTOLFO DUTRA;Educação Especial - AEE (Sala de Recursos);;S
+2026;2;000028;SRE UBA;3116704;COIMBRA;Educação Especial - AEE (Sala de Recursos);;S
 2026;2;000028;SRE UBA;3122900;DONA EUZÉBIA;Educação Especial - AEE (Sala de Recursos);7;N
 2026;2;000028;SRE UBA;3123304;DORES DO TURVO;Educação Especial - AEE (Sala de Recursos);10;N
 2026;2;000028;SRE UBA;3128402;GUARANI;Educação Especial - AEE (Sala de Recursos);11;N
@@ -416,7 +417,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;2;000028;SRE UBA;3169901;UBÁ;Educação Especial - AEE (Sala de Recursos);8;N
 2026;2;000028;SRE UBA;3169901;UBÁ;Prisional;32;N
 2026;2;000028;SRE UBA;3169901;UBÁ;Quilombola;507;N
-2026;2;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - AEE (Sala de Recursos);14;N
+2026;2;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - AEE (Sala de Recursos);15;N
 2026;2;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - Escola Exclusiva;82;N
 2026;2;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Prisional;40;N
 2026;2;000029;SRE ALMENARA;3101706;ALMENARA;Prisional;66;N
@@ -562,7 +563,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;2;000044;SRE JANAUBA;3155603;RIO PARDO DE MINAS;Educação Especial - AEE (Sala de Recursos);40;N
 2026;2;000044;SRE JANAUBA;3166956;SERRANÓPOLIS DE MINAS;Educação Especial - AEE (Sala de Recursos);16;N
 2026;2;000045;SRE PARA DE MINAS;3100203;ABAETÉ;Educação Especial - AEE (Sala de Recursos);;S
-2026;2;000045;SRE PARA DE MINAS;3107406;BOM DESPACHO;Educação Especial - AEE (Sala de Recursos);23;N
+2026;2;000045;SRE PARA DE MINAS;3107406;BOM DESPACHO;Educação Especial - AEE (Sala de Recursos);27;N
 2026;2;000045;SRE PARA DE MINAS;3140506;MARTINHO CAMPOS;Educação Especial - AEE (Sala de Recursos);13;N
 2026;2;000045;SRE PARA DE MINAS;3140506;MARTINHO CAMPOS;Indígena;21;N
 2026;2;000045;SRE PARA DE MINAS;3147105;PARÁ DE MINAS;Educação Especial - AEE (Sala de Recursos);17;N
@@ -999,6 +1000,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;3;000027;SRE VARGINHA;3169406;TRÊS PONTAS;Educação Especial - AEE (Sala de Recursos);16;N
 2026;3;000027;SRE VARGINHA;3170701;VARGINHA;Prisional;90;N
 2026;3;000028;SRE UBA;3104601;ASTOLFO DUTRA;Educação Especial - AEE (Sala de Recursos);;S
+2026;3;000028;SRE UBA;3116704;COIMBRA;Educação Especial - AEE (Sala de Recursos);;S
 2026;3;000028;SRE UBA;3122900;DONA EUZÉBIA;Educação Especial - AEE (Sala de Recursos);7;N
 2026;3;000028;SRE UBA;3123304;DORES DO TURVO;Educação Especial - AEE (Sala de Recursos);10;N
 2026;3;000028;SRE UBA;3128402;GUARANI;Educação Especial - AEE (Sala de Recursos);11;N
@@ -1014,7 +1016,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;3;000028;SRE UBA;3169901;UBÁ;Educação Especial - AEE (Sala de Recursos);26;N
 2026;3;000028;SRE UBA;3169901;UBÁ;Prisional;32;N
 2026;3;000028;SRE UBA;3169901;UBÁ;Quilombola;503;N
-2026;3;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - AEE (Sala de Recursos);14;N
+2026;3;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - AEE (Sala de Recursos);15;N
 2026;3;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - Escola Exclusiva;80;N
 2026;3;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Prisional;41;N
 2026;3;000029;SRE ALMENARA;3101706;ALMENARA;Educação Especial - AEE (Sala de Recursos);22;N
@@ -1170,7 +1172,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;3;000044;SRE JANAUBA;3155603;RIO PARDO DE MINAS;Educação Especial - AEE (Sala de Recursos);48;N
 2026;3;000044;SRE JANAUBA;3166956;SERRANÓPOLIS DE MINAS;Educação Especial - AEE (Sala de Recursos);16;N
 2026;3;000045;SRE PARA DE MINAS;3100203;ABAETÉ;Educação Especial - AEE (Sala de Recursos);;S
-2026;3;000045;SRE PARA DE MINAS;3107406;BOM DESPACHO;Educação Especial - AEE (Sala de Recursos);24;N
+2026;3;000045;SRE PARA DE MINAS;3107406;BOM DESPACHO;Educação Especial - AEE (Sala de Recursos);28;N
 2026;3;000045;SRE PARA DE MINAS;3140506;MARTINHO CAMPOS;Educação Especial - AEE (Sala de Recursos);13;N
 2026;3;000045;SRE PARA DE MINAS;3140506;MARTINHO CAMPOS;Indígena;21;N
 2026;3;000045;SRE PARA DE MINAS;3147105;PARÁ DE MINAS;Educação Especial - AEE (Sala de Recursos);18;N
@@ -1615,6 +1617,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;4;000027;SRE VARGINHA;3169406;TRÊS PONTAS;Educação Especial - AEE (Sala de Recursos);17;N
 2026;4;000027;SRE VARGINHA;3170701;VARGINHA;Prisional;96;N
 2026;4;000028;SRE UBA;3104601;ASTOLFO DUTRA;Educação Especial - AEE (Sala de Recursos);;S
+2026;4;000028;SRE UBA;3116704;COIMBRA;Educação Especial - AEE (Sala de Recursos);;S
 2026;4;000028;SRE UBA;3122900;DONA EUZÉBIA;Educação Especial - AEE (Sala de Recursos);7;N
 2026;4;000028;SRE UBA;3123304;DORES DO TURVO;Educação Especial - AEE (Sala de Recursos);10;N
 2026;4;000028;SRE UBA;3128402;GUARANI;Educação Especial - AEE (Sala de Recursos);11;N
@@ -1630,7 +1633,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;4;000028;SRE UBA;3169901;UBÁ;Educação Especial - AEE (Sala de Recursos);33;N
 2026;4;000028;SRE UBA;3169901;UBÁ;Prisional;32;N
 2026;4;000028;SRE UBA;3169901;UBÁ;Quilombola;497;N
-2026;4;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - AEE (Sala de Recursos);17;N
+2026;4;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - AEE (Sala de Recursos);18;N
 2026;4;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - Escola Exclusiva;81;N
 2026;4;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Prisional;41;N
 2026;4;000029;SRE ALMENARA;3101706;ALMENARA;Educação Especial - AEE (Sala de Recursos);22;N
@@ -1647,7 +1650,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;4;000030;SRE CORONEL FABRICIANO;3103009;ANTÔNIO DIAS;Educação Especial - AEE (Sala de Recursos);29;N
 2026;4;000030;SRE CORONEL FABRICIANO;3106309;BELO ORIENTE;Educação Especial - AEE (Sala de Recursos);;S
 2026;4;000030;SRE CORONEL FABRICIANO;3108800;BRAÚNAS;Educação Especial - AEE (Sala de Recursos);9;N
-2026;4;000030;SRE CORONEL FABRICIANO;3119401;CORONEL FABRICIANO;Educação Especial - AEE (Sala de Recursos);73;N
+2026;4;000030;SRE CORONEL FABRICIANO;3119401;CORONEL FABRICIANO;Educação Especial - AEE (Sala de Recursos);77;N
 2026;4;000030;SRE CORONEL FABRICIANO;3119401;CORONEL FABRICIANO;Prisional;49;N
 2026;4;000030;SRE CORONEL FABRICIANO;3131307;IPATINGA;Educação Especial - AEE (Sala de Recursos);399;N
 2026;4;000030;SRE CORONEL FABRICIANO;3131307;IPATINGA;Socioeducativo;15;N
@@ -1788,7 +1791,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;4;000044;SRE JANAUBA;3155603;RIO PARDO DE MINAS;Educação Especial - AEE (Sala de Recursos);48;N
 2026;4;000044;SRE JANAUBA;3166956;SERRANÓPOLIS DE MINAS;Educação Especial - AEE (Sala de Recursos);16;N
 2026;4;000045;SRE PARA DE MINAS;3100203;ABAETÉ;Educação Especial - AEE (Sala de Recursos);;S
-2026;4;000045;SRE PARA DE MINAS;3107406;BOM DESPACHO;Educação Especial - AEE (Sala de Recursos);25;N
+2026;4;000045;SRE PARA DE MINAS;3107406;BOM DESPACHO;Educação Especial - AEE (Sala de Recursos);29;N
 2026;4;000045;SRE PARA DE MINAS;3140506;MARTINHO CAMPOS;Educação Especial - AEE (Sala de Recursos);13;N
 2026;4;000045;SRE PARA DE MINAS;3140506;MARTINHO CAMPOS;Indígena;21;N
 2026;4;000045;SRE PARA DE MINAS;3147105;PARÁ DE MINAS;Educação Especial - AEE (Sala de Recursos);18;N
@@ -2330,7 +2333,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;5;000027;SRE VARGINHA;3170701;VARGINHA;Prisional;93;N
 2026;5;000028;SRE UBA;3104601;ASTOLFO DUTRA;Educação Especial - AEE (Sala de Recursos);;S
 2026;5;000028;SRE UBA;3108701;BRÁS PIRES;Educação Especial - AEE (Sala de Recursos);;S
-2026;5;000028;SRE UBA;3116704;COIMBRA;Educação Especial - AEE (Sala de Recursos);;S
+2026;5;000028;SRE UBA;3116704;COIMBRA;Educação Especial - AEE (Sala de Recursos);5;N
 2026;5;000028;SRE UBA;3122900;DONA EUZÉBIA;Educação Especial - AEE (Sala de Recursos);7;N
 2026;5;000028;SRE UBA;3123304;DORES DO TURVO;Educação Especial - AEE (Sala de Recursos);10;N
 2026;5;000028;SRE UBA;3128402;GUARANI;Educação Especial - AEE (Sala de Recursos);11;N
@@ -2346,7 +2349,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;5;000028;SRE UBA;3169901;UBÁ;Educação Especial - AEE (Sala de Recursos);43;N
 2026;5;000028;SRE UBA;3169901;UBÁ;Prisional;32;N
 2026;5;000028;SRE UBA;3169901;UBÁ;Quilombola;496;N
-2026;5;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - AEE (Sala de Recursos);17;N
+2026;5;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - AEE (Sala de Recursos);18;N
 2026;5;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - Escola Exclusiva;82;N
 2026;5;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Prisional;41;N
 2026;5;000029;SRE ALMENARA;3101003;ÁGUAS VERMELHAS;Educação Especial - AEE (Sala de Recursos);22;N
@@ -2366,7 +2369,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;5;000030;SRE CORONEL FABRICIANO;3103009;ANTÔNIO DIAS;Educação Especial - AEE (Sala de Recursos);34;N
 2026;5;000030;SRE CORONEL FABRICIANO;3106309;BELO ORIENTE;Educação Especial - AEE (Sala de Recursos);;S
 2026;5;000030;SRE CORONEL FABRICIANO;3108800;BRAÚNAS;Educação Especial - AEE (Sala de Recursos);9;N
-2026;5;000030;SRE CORONEL FABRICIANO;3119401;CORONEL FABRICIANO;Educação Especial - AEE (Sala de Recursos);103;N
+2026;5;000030;SRE CORONEL FABRICIANO;3119401;CORONEL FABRICIANO;Educação Especial - AEE (Sala de Recursos);107;N
 2026;5;000030;SRE CORONEL FABRICIANO;3119401;CORONEL FABRICIANO;Prisional;47;N
 2026;5;000030;SRE CORONEL FABRICIANO;3131307;IPATINGA;Educação Especial - AEE (Sala de Recursos);538;N
 2026;5;000030;SRE CORONEL FABRICIANO;3131307;IPATINGA;Socioeducativo;14;N
@@ -2485,7 +2488,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;5;000041;SRE METROPOLITANA C;3137601;LAGOA SANTA;Educação Especial - AEE (Sala de Recursos);15;N
 2026;5;000041;SRE METROPOLITANA C;3143708;MORRO DO PILAR;Educação Especial - AEE (Sala de Recursos);6;N
 2026;5;000041;SRE METROPOLITANA C;3149309;PEDRO LEOPOLDO;Educação Especial - AEE (Sala de Recursos);41;N
-2026;5;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Educação Especial - AEE (Sala de Recursos);80;N
+2026;5;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Educação Especial - AEE (Sala de Recursos);81;N
 2026;5;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Prisional;558;N
 2026;5;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Socioeducativo;24;N
 2026;5;000041;SRE METROPOLITANA C;3157807;SANTA LUZIA;Educação Especial - AEE (Sala de Recursos);127;N
@@ -2553,7 +2556,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;5;000044;SRE JANAUBA;3166956;SERRANÓPOLIS DE MINAS;Educação Especial - AEE (Sala de Recursos);20;N
 2026;5;000044;SRE JANAUBA;3171030;VERDELÂNDIA;Educação Especial - AEE (Sala de Recursos);;S
 2026;5;000045;SRE PARA DE MINAS;3100203;ABAETÉ;Educação Especial - AEE (Sala de Recursos);;S
-2026;5;000045;SRE PARA DE MINAS;3107406;BOM DESPACHO;Educação Especial - AEE (Sala de Recursos);30;N
+2026;5;000045;SRE PARA DE MINAS;3107406;BOM DESPACHO;Educação Especial - AEE (Sala de Recursos);34;N
 2026;5;000045;SRE PARA DE MINAS;3117603;CONCEIÇÃO DO PARÁ;Educação Especial - AEE (Sala de Recursos);8;N
 2026;5;000045;SRE PARA DE MINAS;3123205;DORES DO INDAIÁ;Educação Especial - AEE (Sala de Recursos);;S
 2026;5;000045;SRE PARA DE MINAS;3126000;FLORESTAL;Educação Especial - AEE (Sala de Recursos);;S
@@ -3150,7 +3153,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;6;000027;SRE VARGINHA;3170701;VARGINHA;Prisional;67;N
 2026;6;000028;SRE UBA;3104601;ASTOLFO DUTRA;Educação Especial - AEE (Sala de Recursos);;S
 2026;6;000028;SRE UBA;3108701;BRÁS PIRES;Educação Especial - AEE (Sala de Recursos);9;N
-2026;6;000028;SRE UBA;3116704;COIMBRA;Educação Especial - AEE (Sala de Recursos);18;N
+2026;6;000028;SRE UBA;3116704;COIMBRA;Educação Especial - AEE (Sala de Recursos);21;N
 2026;6;000028;SRE UBA;3122900;DONA EUZÉBIA;Educação Especial - AEE (Sala de Recursos);7;N
 2026;6;000028;SRE UBA;3123304;DORES DO TURVO;Educação Especial - AEE (Sala de Recursos);10;N
 2026;6;000028;SRE UBA;3124005;ERVÁLIA;Educação Especial - AEE (Sala de Recursos);8;N
@@ -3168,7 +3171,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;6;000028;SRE UBA;3169901;UBÁ;Educação Especial - AEE (Sala de Recursos);98;N
 2026;6;000028;SRE UBA;3169901;UBÁ;Prisional;32;N
 2026;6;000028;SRE UBA;3169901;UBÁ;Quilombola;497;N
-2026;6;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - AEE (Sala de Recursos);20;N
+2026;6;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - AEE (Sala de Recursos);21;N
 2026;6;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - Escola Exclusiva;80;N
 2026;6;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Prisional;41;N
 2026;6;000029;SRE ALMENARA;3101003;ÁGUAS VERMELHAS;Educação Especial - AEE (Sala de Recursos);22;N
@@ -3189,7 +3192,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;6;000030;SRE CORONEL FABRICIANO;3103009;ANTÔNIO DIAS;Educação Especial - AEE (Sala de Recursos);65;N
 2026;6;000030;SRE CORONEL FABRICIANO;3106309;BELO ORIENTE;Educação Especial - AEE (Sala de Recursos);42;N
 2026;6;000030;SRE CORONEL FABRICIANO;3108800;BRAÚNAS;Educação Especial - AEE (Sala de Recursos);9;N
-2026;6;000030;SRE CORONEL FABRICIANO;3119401;CORONEL FABRICIANO;Educação Especial - AEE (Sala de Recursos);148;N
+2026;6;000030;SRE CORONEL FABRICIANO;3119401;CORONEL FABRICIANO;Educação Especial - AEE (Sala de Recursos);152;N
 2026;6;000030;SRE CORONEL FABRICIANO;3119401;CORONEL FABRICIANO;Prisional;46;N
 2026;6;000030;SRE CORONEL FABRICIANO;3131307;IPATINGA;Educação Especial - AEE (Sala de Recursos);569;N
 2026;6;000030;SRE CORONEL FABRICIANO;3131307;IPATINGA;Socioeducativo;14;N
@@ -3315,7 +3318,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;6;000041;SRE METROPOLITANA C;3137601;LAGOA SANTA;Educação Especial - AEE (Sala de Recursos);19;N
 2026;6;000041;SRE METROPOLITANA C;3143708;MORRO DO PILAR;Educação Especial - AEE (Sala de Recursos);6;N
 2026;6;000041;SRE METROPOLITANA C;3149309;PEDRO LEOPOLDO;Educação Especial - AEE (Sala de Recursos);67;N
-2026;6;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Educação Especial - AEE (Sala de Recursos);145;N
+2026;6;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Educação Especial - AEE (Sala de Recursos);146;N
 2026;6;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Prisional;534;N
 2026;6;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Socioeducativo;31;N
 2026;6;000041;SRE METROPOLITANA C;3157807;SANTA LUZIA;Educação Especial - AEE (Sala de Recursos);170;N
@@ -3387,7 +3390,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;6;000044;SRE JANAUBA;3166956;SERRANÓPOLIS DE MINAS;Educação Especial - AEE (Sala de Recursos);20;N
 2026;6;000044;SRE JANAUBA;3171030;VERDELÂNDIA;Educação Especial - AEE (Sala de Recursos);17;N
 2026;6;000045;SRE PARA DE MINAS;3100203;ABAETÉ;Educação Especial - AEE (Sala de Recursos);;S
-2026;6;000045;SRE PARA DE MINAS;3107406;BOM DESPACHO;Educação Especial - AEE (Sala de Recursos);30;N
+2026;6;000045;SRE PARA DE MINAS;3107406;BOM DESPACHO;Educação Especial - AEE (Sala de Recursos);34;N
 2026;6;000045;SRE PARA DE MINAS;3117603;CONCEIÇÃO DO PARÁ;Educação Especial - AEE (Sala de Recursos);8;N
 2026;6;000045;SRE PARA DE MINAS;3123205;DORES DO INDAIÁ;Educação Especial - AEE (Sala de Recursos);;S
 2026;6;000045;SRE PARA DE MINAS;3126000;FLORESTAL;Educação Especial - AEE (Sala de Recursos);;S
@@ -3995,7 +3998,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;7;000027;SRE VARGINHA;3170701;VARGINHA;Prisional;21;N
 2026;7;000028;SRE UBA;3104601;ASTOLFO DUTRA;Educação Especial - AEE (Sala de Recursos);;S
 2026;7;000028;SRE UBA;3108701;BRÁS PIRES;Educação Especial - AEE (Sala de Recursos);10;N
-2026;7;000028;SRE UBA;3116704;COIMBRA;Educação Especial - AEE (Sala de Recursos);18;N
+2026;7;000028;SRE UBA;3116704;COIMBRA;Educação Especial - AEE (Sala de Recursos);21;N
 2026;7;000028;SRE UBA;3122900;DONA EUZÉBIA;Educação Especial - AEE (Sala de Recursos);7;N
 2026;7;000028;SRE UBA;3123304;DORES DO TURVO;Educação Especial - AEE (Sala de Recursos);10;N
 2026;7;000028;SRE UBA;3124005;ERVÁLIA;Educação Especial - AEE (Sala de Recursos);9;N
@@ -4012,7 +4015,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;7;000028;SRE UBA;3169000;TOCANTINS;Educação Especial - AEE (Sala de Recursos);14;N
 2026;7;000028;SRE UBA;3169901;UBÁ;Educação Especial - AEE (Sala de Recursos);102;N
 2026;7;000028;SRE UBA;3169901;UBÁ;Quilombola;496;N
-2026;7;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - AEE (Sala de Recursos);21;N
+2026;7;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - AEE (Sala de Recursos);22;N
 2026;7;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - Escola Exclusiva;80;N
 2026;7;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Prisional;42;N
 2026;7;000029;SRE ALMENARA;3101003;ÁGUAS VERMELHAS;Educação Especial - AEE (Sala de Recursos);22;N
@@ -4033,7 +4036,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;7;000030;SRE CORONEL FABRICIANO;3103009;ANTÔNIO DIAS;Educação Especial - AEE (Sala de Recursos);68;N
 2026;7;000030;SRE CORONEL FABRICIANO;3106309;BELO ORIENTE;Educação Especial - AEE (Sala de Recursos);42;N
 2026;7;000030;SRE CORONEL FABRICIANO;3108800;BRAÚNAS;Educação Especial - AEE (Sala de Recursos);9;N
-2026;7;000030;SRE CORONEL FABRICIANO;3119401;CORONEL FABRICIANO;Educação Especial - AEE (Sala de Recursos);200;N
+2026;7;000030;SRE CORONEL FABRICIANO;3119401;CORONEL FABRICIANO;Educação Especial - AEE (Sala de Recursos);204;N
 2026;7;000030;SRE CORONEL FABRICIANO;3119401;CORONEL FABRICIANO;Prisional;54;N
 2026;7;000030;SRE CORONEL FABRICIANO;3131307;IPATINGA;Educação Especial - AEE (Sala de Recursos);742;N
 2026;7;000030;SRE CORONEL FABRICIANO;3131307;IPATINGA;Socioeducativo;14;N
@@ -4164,7 +4167,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;7;000041;SRE METROPOLITANA C;3137601;LAGOA SANTA;Educação Especial - AEE (Sala de Recursos);32;N
 2026;7;000041;SRE METROPOLITANA C;3143708;MORRO DO PILAR;Educação Especial - AEE (Sala de Recursos);6;N
 2026;7;000041;SRE METROPOLITANA C;3149309;PEDRO LEOPOLDO;Educação Especial - AEE (Sala de Recursos);86;N
-2026;7;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Educação Especial - AEE (Sala de Recursos);149;N
+2026;7;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Educação Especial - AEE (Sala de Recursos);150;N
 2026;7;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Prisional;339;N
 2026;7;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Socioeducativo;31;N
 2026;7;000041;SRE METROPOLITANA C;3157807;SANTA LUZIA;Educação Especial - AEE (Sala de Recursos);175;N
@@ -4236,7 +4239,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;7;000044;SRE JANAUBA;3166956;SERRANÓPOLIS DE MINAS;Educação Especial - AEE (Sala de Recursos);19;N
 2026;7;000044;SRE JANAUBA;3171030;VERDELÂNDIA;Educação Especial - AEE (Sala de Recursos);17;N
 2026;7;000045;SRE PARA DE MINAS;3100203;ABAETÉ;Educação Especial - AEE (Sala de Recursos);;S
-2026;7;000045;SRE PARA DE MINAS;3107406;BOM DESPACHO;Educação Especial - AEE (Sala de Recursos);46;N
+2026;7;000045;SRE PARA DE MINAS;3107406;BOM DESPACHO;Educação Especial - AEE (Sala de Recursos);50;N
 2026;7;000045;SRE PARA DE MINAS;3117603;CONCEIÇÃO DO PARÁ;Educação Especial - AEE (Sala de Recursos);8;N
 2026;7;000045;SRE PARA DE MINAS;3123205;DORES DO INDAIÁ;Educação Especial - AEE (Sala de Recursos);;S
 2026;7;000045;SRE PARA DE MINAS;3126000;FLORESTAL;Educação Especial - AEE (Sala de Recursos);;S
@@ -4256,7 +4259,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;7;000046;SRE PIRAPORA;3135605;JEQUITAÍ;Educação Especial - AEE (Sala de Recursos);12;N
 2026;7;000046;SRE PIRAPORA;3137304;LAGOA DOS PATOS;Educação Especial - AEE (Sala de Recursos);10;N
 2026;7;000046;SRE PIRAPORA;3151206;PIRAPORA;Educação Especial - AEE (Sala de Recursos);;S
-2026;7;000046;SRE PIRAPORA;3151206;PIRAPORA;Prisional;60;N
+2026;7;000046;SRE PIRAPORA;3151206;PIRAPORA;Prisional;61;N
 2026;7;000046;SRE PIRAPORA;3151206;PIRAPORA;Socioeducativo;11;N
 2026;7;000046;SRE PIRAPORA;3152131;PONTO CHIQUE;Educação Especial - AEE (Sala de Recursos);8;N
 2026;7;000046;SRE PIRAPORA;3157609;SANTA FÉ DE MINAS;Educação Especial - AEE (Sala de Recursos);17;N
@@ -4851,7 +4854,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;8;000027;SRE VARGINHA;3170701;VARGINHA;Prisional;97;N
 2026;8;000028;SRE UBA;3104601;ASTOLFO DUTRA;Educação Especial - AEE (Sala de Recursos);;S
 2026;8;000028;SRE UBA;3108701;BRÁS PIRES;Educação Especial - AEE (Sala de Recursos);10;N
-2026;8;000028;SRE UBA;3116704;COIMBRA;Educação Especial - AEE (Sala de Recursos);18;N
+2026;8;000028;SRE UBA;3116704;COIMBRA;Educação Especial - AEE (Sala de Recursos);22;N
 2026;8;000028;SRE UBA;3122900;DONA EUZÉBIA;Educação Especial - AEE (Sala de Recursos);8;N
 2026;8;000028;SRE UBA;3123304;DORES DO TURVO;Educação Especial - AEE (Sala de Recursos);10;N
 2026;8;000028;SRE UBA;3124005;ERVÁLIA;Educação Especial - AEE (Sala de Recursos);9;N
@@ -4869,7 +4872,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;8;000028;SRE UBA;3169901;UBÁ;Educação Especial - AEE (Sala de Recursos);112;N
 2026;8;000028;SRE UBA;3169901;UBÁ;Prisional;62;N
 2026;8;000028;SRE UBA;3169901;UBÁ;Quilombola;494;N
-2026;8;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - AEE (Sala de Recursos);22;N
+2026;8;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - AEE (Sala de Recursos);23;N
 2026;8;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - Escola Exclusiva;78;N
 2026;8;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Prisional;43;N
 2026;8;000029;SRE ALMENARA;3101003;ÁGUAS VERMELHAS;Educação Especial - AEE (Sala de Recursos);22;N
@@ -4890,7 +4893,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;8;000030;SRE CORONEL FABRICIANO;3103009;ANTÔNIO DIAS;Educação Especial - AEE (Sala de Recursos);68;N
 2026;8;000030;SRE CORONEL FABRICIANO;3106309;BELO ORIENTE;Educação Especial - AEE (Sala de Recursos);41;N
 2026;8;000030;SRE CORONEL FABRICIANO;3108800;BRAÚNAS;Educação Especial - AEE (Sala de Recursos);9;N
-2026;8;000030;SRE CORONEL FABRICIANO;3119401;CORONEL FABRICIANO;Educação Especial - AEE (Sala de Recursos);210;N
+2026;8;000030;SRE CORONEL FABRICIANO;3119401;CORONEL FABRICIANO;Educação Especial - AEE (Sala de Recursos);214;N
 2026;8;000030;SRE CORONEL FABRICIANO;3119401;CORONEL FABRICIANO;Prisional;51;N
 2026;8;000030;SRE CORONEL FABRICIANO;3131307;IPATINGA;Educação Especial - AEE (Sala de Recursos);829;N
 2026;8;000030;SRE CORONEL FABRICIANO;3131307;IPATINGA;Socioeducativo;15;N
@@ -5021,7 +5024,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;8;000041;SRE METROPOLITANA C;3137601;LAGOA SANTA;Educação Especial - AEE (Sala de Recursos);32;N
 2026;8;000041;SRE METROPOLITANA C;3143708;MORRO DO PILAR;Educação Especial - AEE (Sala de Recursos);6;N
 2026;8;000041;SRE METROPOLITANA C;3149309;PEDRO LEOPOLDO;Educação Especial - AEE (Sala de Recursos);87;N
-2026;8;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Educação Especial - AEE (Sala de Recursos);220;N
+2026;8;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Educação Especial - AEE (Sala de Recursos);221;N
 2026;8;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Prisional;514;N
 2026;8;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Socioeducativo;26;N
 2026;8;000041;SRE METROPOLITANA C;3157807;SANTA LUZIA;Educação Especial - AEE (Sala de Recursos);175;N
@@ -5093,7 +5096,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;8;000044;SRE JANAUBA;3166956;SERRANÓPOLIS DE MINAS;Educação Especial - AEE (Sala de Recursos);20;N
 2026;8;000044;SRE JANAUBA;3171030;VERDELÂNDIA;Educação Especial - AEE (Sala de Recursos);18;N
 2026;8;000045;SRE PARA DE MINAS;3100203;ABAETÉ;Educação Especial - AEE (Sala de Recursos);;S
-2026;8;000045;SRE PARA DE MINAS;3107406;BOM DESPACHO;Educação Especial - AEE (Sala de Recursos);51;N
+2026;8;000045;SRE PARA DE MINAS;3107406;BOM DESPACHO;Educação Especial - AEE (Sala de Recursos);55;N
 2026;8;000045;SRE PARA DE MINAS;3117603;CONCEIÇÃO DO PARÁ;Educação Especial - AEE (Sala de Recursos);8;N
 2026;8;000045;SRE PARA DE MINAS;3123205;DORES DO INDAIÁ;Educação Especial - AEE (Sala de Recursos);;S
 2026;8;000045;SRE PARA DE MINAS;3126000;FLORESTAL;Educação Especial - AEE (Sala de Recursos);;S
@@ -5113,7 +5116,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;8;000046;SRE PIRAPORA;3135605;JEQUITAÍ;Educação Especial - AEE (Sala de Recursos);12;N
 2026;8;000046;SRE PIRAPORA;3137304;LAGOA DOS PATOS;Educação Especial - AEE (Sala de Recursos);10;N
 2026;8;000046;SRE PIRAPORA;3151206;PIRAPORA;Educação Especial - AEE (Sala de Recursos);20;N
-2026;8;000046;SRE PIRAPORA;3151206;PIRAPORA;Prisional;72;N
+2026;8;000046;SRE PIRAPORA;3151206;PIRAPORA;Prisional;73;N
 2026;8;000046;SRE PIRAPORA;3151206;PIRAPORA;Socioeducativo;9;N
 2026;8;000046;SRE PIRAPORA;3152131;PONTO CHIQUE;Educação Especial - AEE (Sala de Recursos);8;N
 2026;8;000046;SRE PIRAPORA;3157609;SANTA FÉ DE MINAS;Educação Especial - AEE (Sala de Recursos);17;N
@@ -5194,7 +5197,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;9;000004;SRE CARATINGA;3130903;INHAPIM;Educação Especial - AEE (Sala de Recursos);14;N
 2026;9;000004;SRE CARATINGA;3130903;INHAPIM;Prisional;28;N
 2026;9;000004;SRE CARATINGA;3131158;IPABA;Educação Especial - AEE (Sala de Recursos);19;N
-2026;9;000004;SRE CARATINGA;3131158;IPABA;Prisional;125;N
+2026;9;000004;SRE CARATINGA;3131158;IPABA;Prisional;121;N
 2026;9;000004;SRE CARATINGA;3131208;IPANEMA;Educação Especial - AEE (Sala de Recursos);10;N
 2026;9;000004;SRE CARATINGA;3150158;PIEDADE DE CARATINGA;Educação Especial - AEE (Sala de Recursos);37;N
 2026;9;000004;SRE CARATINGA;3150539;PINGO-D'ÁGUA;Educação Especial - AEE (Sala de Recursos);20;N
@@ -5237,7 +5240,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;9;000006;SRE DIVINOPOLIS;3104205;ARCOS;Prisional;35;N
 2026;9;000006;SRE DIVINOPOLIS;3105103;BAMBUÍ;Educação Especial - AEE (Sala de Recursos);14;N
 2026;9;000006;SRE DIVINOPOLIS;3114006;CARMO DA MATA;Educação Especial - AEE (Sala de Recursos);15;N
-2026;9;000006;SRE DIVINOPOLIS;3114204;CARMO DO CAJURU;Educação Especial - AEE (Sala de Recursos);18;N
+2026;9;000006;SRE DIVINOPOLIS;3114204;CARMO DO CAJURU;Educação Especial - AEE (Sala de Recursos);19;N
 2026;9;000006;SRE DIVINOPOLIS;3114501;CARMÓPOLIS DE MINAS;Educação Especial - AEE (Sala de Recursos);7;N
 2026;9;000006;SRE DIVINOPOLIS;3116605;CLÁUDIO;Educação Especial - AEE (Sala de Recursos);43;N
 2026;9;000006;SRE DIVINOPOLIS;3122306;DIVINÓPOLIS;Educação Especial - AEE (Sala de Recursos);397;N
@@ -5717,7 +5720,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;9;000027;SRE VARGINHA;3170701;VARGINHA;Prisional;108;N
 2026;9;000028;SRE UBA;3104601;ASTOLFO DUTRA;Educação Especial - AEE (Sala de Recursos);;S
 2026;9;000028;SRE UBA;3108701;BRÁS PIRES;Educação Especial - AEE (Sala de Recursos);10;N
-2026;9;000028;SRE UBA;3116704;COIMBRA;Educação Especial - AEE (Sala de Recursos);18;N
+2026;9;000028;SRE UBA;3116704;COIMBRA;Educação Especial - AEE (Sala de Recursos);22;N
 2026;9;000028;SRE UBA;3122900;DONA EUZÉBIA;Educação Especial - AEE (Sala de Recursos);7;N
 2026;9;000028;SRE UBA;3123304;DORES DO TURVO;Educação Especial - AEE (Sala de Recursos);10;N
 2026;9;000028;SRE UBA;3124005;ERVÁLIA;Educação Especial - AEE (Sala de Recursos);9;N
@@ -5735,7 +5738,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;9;000028;SRE UBA;3169901;UBÁ;Educação Especial - AEE (Sala de Recursos);114;N
 2026;9;000028;SRE UBA;3169901;UBÁ;Prisional;62;N
 2026;9;000028;SRE UBA;3169901;UBÁ;Quilombola;487;N
-2026;9;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - AEE (Sala de Recursos);40;N
+2026;9;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - AEE (Sala de Recursos);41;N
 2026;9;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - Escola Exclusiva;78;N
 2026;9;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Prisional;42;N
 2026;9;000029;SRE ALMENARA;3101003;ÁGUAS VERMELHAS;Educação Especial - AEE (Sala de Recursos);29;N
@@ -5758,7 +5761,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;9;000030;SRE CORONEL FABRICIANO;3103009;ANTÔNIO DIAS;Educação Especial - AEE (Sala de Recursos);71;N
 2026;9;000030;SRE CORONEL FABRICIANO;3106309;BELO ORIENTE;Educação Especial - AEE (Sala de Recursos);41;N
 2026;9;000030;SRE CORONEL FABRICIANO;3108800;BRAÚNAS;Educação Especial - AEE (Sala de Recursos);9;N
-2026;9;000030;SRE CORONEL FABRICIANO;3119401;CORONEL FABRICIANO;Educação Especial - AEE (Sala de Recursos);211;N
+2026;9;000030;SRE CORONEL FABRICIANO;3119401;CORONEL FABRICIANO;Educação Especial - AEE (Sala de Recursos);215;N
 2026;9;000030;SRE CORONEL FABRICIANO;3119401;CORONEL FABRICIANO;Prisional;46;N
 2026;9;000030;SRE CORONEL FABRICIANO;3131307;IPATINGA;Educação Especial - AEE (Sala de Recursos);889;N
 2026;9;000030;SRE CORONEL FABRICIANO;3131307;IPATINGA;Socioeducativo;15;N
@@ -5890,8 +5893,8 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;9;000041;SRE METROPOLITANA C;3137601;LAGOA SANTA;Educação Especial - AEE (Sala de Recursos);35;N
 2026;9;000041;SRE METROPOLITANA C;3143708;MORRO DO PILAR;Educação Especial - AEE (Sala de Recursos);7;N
 2026;9;000041;SRE METROPOLITANA C;3149309;PEDRO LEOPOLDO;Educação Especial - AEE (Sala de Recursos);84;N
-2026;9;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Educação Especial - AEE (Sala de Recursos);249;N
-2026;9;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Prisional;541;N
+2026;9;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Educação Especial - AEE (Sala de Recursos);250;N
+2026;9;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Prisional;540;N
 2026;9;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Socioeducativo;33;N
 2026;9;000041;SRE METROPOLITANA C;3157807;SANTA LUZIA;Educação Especial - AEE (Sala de Recursos);172;N
 2026;9;000041;SRE METROPOLITANA C;3157807;SANTA LUZIA;Prisional;39;N
@@ -5963,7 +5966,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;9;000044;SRE JANAUBA;3166956;SERRANÓPOLIS DE MINAS;Educação Especial - AEE (Sala de Recursos);19;N
 2026;9;000044;SRE JANAUBA;3171030;VERDELÂNDIA;Educação Especial - AEE (Sala de Recursos);45;N
 2026;9;000045;SRE PARA DE MINAS;3100203;ABAETÉ;Educação Especial - AEE (Sala de Recursos);24;N
-2026;9;000045;SRE PARA DE MINAS;3107406;BOM DESPACHO;Educação Especial - AEE (Sala de Recursos);77;N
+2026;9;000045;SRE PARA DE MINAS;3107406;BOM DESPACHO;Educação Especial - AEE (Sala de Recursos);81;N
 2026;9;000045;SRE PARA DE MINAS;3117603;CONCEIÇÃO DO PARÁ;Educação Especial - AEE (Sala de Recursos);8;N
 2026;9;000045;SRE PARA DE MINAS;3123205;DORES DO INDAIÁ;Educação Especial - AEE (Sala de Recursos);;S
 2026;9;000045;SRE PARA DE MINAS;3126000;FLORESTAL;Educação Especial - AEE (Sala de Recursos);30;N
@@ -5983,7 +5986,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;9;000046;SRE PIRAPORA;3135605;JEQUITAÍ;Educação Especial - AEE (Sala de Recursos);13;N
 2026;9;000046;SRE PIRAPORA;3137304;LAGOA DOS PATOS;Educação Especial - AEE (Sala de Recursos);13;N
 2026;9;000046;SRE PIRAPORA;3151206;PIRAPORA;Educação Especial - AEE (Sala de Recursos);23;N
-2026;9;000046;SRE PIRAPORA;3151206;PIRAPORA;Prisional;70;N
+2026;9;000046;SRE PIRAPORA;3151206;PIRAPORA;Prisional;71;N
 2026;9;000046;SRE PIRAPORA;3151206;PIRAPORA;Socioeducativo;9;N
 2026;9;000046;SRE PIRAPORA;3152131;PONTO CHIQUE;Educação Especial - AEE (Sala de Recursos);8;N
 2026;9;000046;SRE PIRAPORA;3157609;SANTA FÉ DE MINAS;Educação Especial - AEE (Sala de Recursos);17;N
@@ -6013,7 +6016,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;10;000001;SRE METROPOLITANA B;3140704;MATEUS LEME;Educação Especial - AEE (Sala de Recursos);17;N
 2026;10;000001;SRE METROPOLITANA B;3162922;SÃO JOAQUIM DE BICAS;Educação Especial - AEE (Sala de Recursos);16;N
 2026;10;000001;SRE METROPOLITANA B;3162922;SÃO JOAQUIM DE BICAS;Indígena;93;N
-2026;10;000001;SRE METROPOLITANA B;3162922;SÃO JOAQUIM DE BICAS;Prisional;232;N
+2026;10;000001;SRE METROPOLITANA B;3162922;SÃO JOAQUIM DE BICAS;Prisional;231;N
 2026;10;000001;SRE METROPOLITANA B;3165537;SARZEDO;Educação Especial - AEE (Sala de Recursos);26;N
 2026;10;000002;SRE METROPOLITANA A;3105400;BARÃO DE COCAIS;Educação Especial - AEE (Sala de Recursos);23;N
 2026;10;000002;SRE METROPOLITANA A;3105400;BARÃO DE COCAIS;Prisional;18;N
@@ -6065,7 +6068,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;10;000004;SRE CARATINGA;3130903;INHAPIM;Educação Especial - AEE (Sala de Recursos);14;N
 2026;10;000004;SRE CARATINGA;3130903;INHAPIM;Prisional;26;N
 2026;10;000004;SRE CARATINGA;3131158;IPABA;Educação Especial - AEE (Sala de Recursos);19;N
-2026;10;000004;SRE CARATINGA;3131158;IPABA;Prisional;112;N
+2026;10;000004;SRE CARATINGA;3131158;IPABA;Prisional;110;N
 2026;10;000004;SRE CARATINGA;3131208;IPANEMA;Educação Especial - AEE (Sala de Recursos);10;N
 2026;10;000004;SRE CARATINGA;3150158;PIEDADE DE CARATINGA;Educação Especial - AEE (Sala de Recursos);36;N
 2026;10;000004;SRE CARATINGA;3150539;PINGO-D'ÁGUA;Educação Especial - AEE (Sala de Recursos);19;N
@@ -6108,12 +6111,12 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;10;000006;SRE DIVINOPOLIS;3104205;ARCOS;Prisional;36;N
 2026;10;000006;SRE DIVINOPOLIS;3105103;BAMBUÍ;Educação Especial - AEE (Sala de Recursos);14;N
 2026;10;000006;SRE DIVINOPOLIS;3114006;CARMO DA MATA;Educação Especial - AEE (Sala de Recursos);16;N
-2026;10;000006;SRE DIVINOPOLIS;3114204;CARMO DO CAJURU;Educação Especial - AEE (Sala de Recursos);19;N
+2026;10;000006;SRE DIVINOPOLIS;3114204;CARMO DO CAJURU;Educação Especial - AEE (Sala de Recursos);20;N
 2026;10;000006;SRE DIVINOPOLIS;3114501;CARMÓPOLIS DE MINAS;Educação Especial - AEE (Sala de Recursos);7;N
 2026;10;000006;SRE DIVINOPOLIS;3116605;CLÁUDIO;Educação Especial - AEE (Sala de Recursos);43;N
 2026;10;000006;SRE DIVINOPOLIS;3122306;DIVINÓPOLIS;Educação Especial - AEE (Sala de Recursos);396;N
 2026;10;000006;SRE DIVINOPOLIS;3122306;DIVINÓPOLIS;Educação Especial - Escola Exclusiva;157;N
-2026;10;000006;SRE DIVINOPOLIS;3122306;DIVINÓPOLIS;Prisional;196;N
+2026;10;000006;SRE DIVINOPOLIS;3122306;DIVINÓPOLIS;Prisional;193;N
 2026;10;000006;SRE DIVINOPOLIS;3122306;DIVINÓPOLIS;Socioeducativo;35;N
 2026;10;000006;SRE DIVINOPOLIS;3130309;IGUATAMA;Educação Especial - AEE (Sala de Recursos);13;N
 2026;10;000006;SRE DIVINOPOLIS;3132206;ITAGUARA;Educação Especial - AEE (Sala de Recursos);26;N
@@ -6303,7 +6306,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;10;000013;SRE MURIAE;3142205;MIRAÍ;Educação Especial - AEE (Sala de Recursos);35;N
 2026;10;000013;SRE MURIAE;3143906;MURIAÉ;Educação Especial - AEE (Sala de Recursos);227;N
 2026;10;000013;SRE MURIAE;3143906;MURIAÉ;Educação Especial - Escola Exclusiva;275;N
-2026;10;000013;SRE MURIAE;3143906;MURIAÉ;Prisional;160;N
+2026;10;000013;SRE MURIAE;3143906;MURIAÉ;Prisional;159;N
 2026;10;000013;SRE MURIAE;3146701;PALMA;Educação Especial - AEE (Sala de Recursos);18;N
 2026;10;000013;SRE MURIAE;3148202;PATROCÍNIO DO MURIAÉ;Educação Especial - AEE (Sala de Recursos);12;N
 2026;10;000013;SRE MURIAE;3161403;SÃO FRANCISCO DO GLÓRIA;Educação Especial - AEE (Sala de Recursos);20;N
@@ -6509,7 +6512,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;10;000024;SRE TEOFILO OTONI;3168606;TEÓFILO OTONI;Educação Especial - AEE (Sala de Recursos);389;N
 2026;10;000024;SRE TEOFILO OTONI;3168606;TEÓFILO OTONI;Indígena;208;N
 2026;10;000024;SRE TEOFILO OTONI;3168606;TEÓFILO OTONI;Prisional;137;N
-2026;10;000024;SRE TEOFILO OTONI;3168606;TEÓFILO OTONI;Socioeducativo;33;N
+2026;10;000024;SRE TEOFILO OTONI;3168606;TEÓFILO OTONI;Socioeducativo;35;N
 2026;10;000024;SRE TEOFILO OTONI;3170305;UMBURATIBA;Educação Especial - AEE (Sala de Recursos);10;N
 2026;10;000025;SRE UBERABA;3100708;ÁGUA COMPRIDA;Educação Especial - AEE (Sala de Recursos);;S
 2026;10;000025;SRE UBERABA;3104007;ARAXÁ;Educação Especial - AEE (Sala de Recursos);178;N
@@ -6555,7 +6558,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;10;000026;SRE UBERLANDIA;3170206;UBERLÂNDIA;Socioeducativo;62;N
 2026;10;000027;SRE VARGINHA;3101607;ALFENAS;Educação Especial - AEE (Sala de Recursos);104;N
 2026;10;000027;SRE VARGINHA;3101607;ALFENAS;Prisional;64;N
-2026;10;000027;SRE VARGINHA;3101607;ALFENAS;Socioeducativo;49;N
+2026;10;000027;SRE VARGINHA;3101607;ALFENAS;Socioeducativo;47;N
 2026;10;000027;SRE VARGINHA;3107109;BOA ESPERANÇA;Educação Especial - AEE (Sala de Recursos);68;N
 2026;10;000027;SRE VARGINHA;3110707;CAMBUQUIRA;Educação Especial - AEE (Sala de Recursos);32;N
 2026;10;000027;SRE VARGINHA;3110905;CAMPANHA;Educação Especial - AEE (Sala de Recursos);23;N
@@ -6588,7 +6591,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;10;000027;SRE VARGINHA;3170701;VARGINHA;Prisional;108;N
 2026;10;000028;SRE UBA;3104601;ASTOLFO DUTRA;Educação Especial - AEE (Sala de Recursos);;S
 2026;10;000028;SRE UBA;3108701;BRÁS PIRES;Educação Especial - AEE (Sala de Recursos);10;N
-2026;10;000028;SRE UBA;3116704;COIMBRA;Educação Especial - AEE (Sala de Recursos);18;N
+2026;10;000028;SRE UBA;3116704;COIMBRA;Educação Especial - AEE (Sala de Recursos);22;N
 2026;10;000028;SRE UBA;3122900;DONA EUZÉBIA;Educação Especial - AEE (Sala de Recursos);7;N
 2026;10;000028;SRE UBA;3123304;DORES DO TURVO;Educação Especial - AEE (Sala de Recursos);10;N
 2026;10;000028;SRE UBA;3124005;ERVÁLIA;Educação Especial - AEE (Sala de Recursos);9;N
@@ -6606,8 +6609,8 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;10;000028;SRE UBA;3169901;UBÁ;Educação Especial - AEE (Sala de Recursos);116;N
 2026;10;000028;SRE UBA;3169901;UBÁ;Prisional;62;N
 2026;10;000028;SRE UBA;3169901;UBÁ;Quilombola;488;N
-2026;10;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - AEE (Sala de Recursos);40;N
-2026;10;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - Escola Exclusiva;76;N
+2026;10;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - AEE (Sala de Recursos);41;N
+2026;10;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Educação Especial - Escola Exclusiva;75;N
 2026;10;000028;SRE UBA;3172004;VISCONDE DO RIO BRANCO;Prisional;42;N
 2026;10;000029;SRE ALMENARA;3101003;ÁGUAS VERMELHAS;Educação Especial - AEE (Sala de Recursos);31;N
 2026;10;000029;SRE ALMENARA;3101706;ALMENARA;Educação Especial - AEE (Sala de Recursos);55;N
@@ -6629,7 +6632,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;10;000030;SRE CORONEL FABRICIANO;3103009;ANTÔNIO DIAS;Educação Especial - AEE (Sala de Recursos);72;N
 2026;10;000030;SRE CORONEL FABRICIANO;3106309;BELO ORIENTE;Educação Especial - AEE (Sala de Recursos);56;N
 2026;10;000030;SRE CORONEL FABRICIANO;3108800;BRAÚNAS;Educação Especial - AEE (Sala de Recursos);9;N
-2026;10;000030;SRE CORONEL FABRICIANO;3119401;CORONEL FABRICIANO;Educação Especial - AEE (Sala de Recursos);208;N
+2026;10;000030;SRE CORONEL FABRICIANO;3119401;CORONEL FABRICIANO;Educação Especial - AEE (Sala de Recursos);212;N
 2026;10;000030;SRE CORONEL FABRICIANO;3119401;CORONEL FABRICIANO;Prisional;42;N
 2026;10;000030;SRE CORONEL FABRICIANO;3131307;IPATINGA;Educação Especial - AEE (Sala de Recursos);887;N
 2026;10;000030;SRE CORONEL FABRICIANO;3131307;IPATINGA;Socioeducativo;13;N
@@ -6714,7 +6717,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;10;000037;SRE POUSO ALEGRE;3146008;OURO FINO;Educação Especial - AEE (Sala de Recursos);66;N
 2026;10;000037;SRE POUSO ALEGRE;3152501;POUSO ALEGRE;Educação Especial - AEE (Sala de Recursos);211;N
 2026;10;000037;SRE POUSO ALEGRE;3152501;POUSO ALEGRE;Prisional;88;N
-2026;10;000037;SRE POUSO ALEGRE;3159605;SANTA RITA DO SAPUCAÍ;Educação Especial - AEE (Sala de Recursos);51;N
+2026;10;000037;SRE POUSO ALEGRE;3159605;SANTA RITA DO SAPUCAÍ;Educação Especial - AEE (Sala de Recursos);52;N
 2026;10;000037;SRE POUSO ALEGRE;3159605;SANTA RITA DO SAPUCAÍ;Prisional;21;N
 2026;10;000037;SRE POUSO ALEGRE;3164407;SÃO SEBASTIÃO DA BELA VISTA;Educação Especial - AEE (Sala de Recursos);18;N
 2026;10;000037;SRE POUSO ALEGRE;3165578;SENADOR AMARAL;Educação Especial - AEE (Sala de Recursos);44;N
@@ -6733,7 +6736,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;10;000039;SRE GUANHAES;3122207;DIVINOLÂNDIA DE MINAS;Educação Especial - AEE (Sala de Recursos);15;N
 2026;10;000039;SRE GUANHAES;3127503;GONZAGA;Educação Especial - AEE (Sala de Recursos);24;N
 2026;10;000039;SRE GUANHAES;3128006;GUANHÃES;Educação Especial - AEE (Sala de Recursos);26;N
-2026;10;000039;SRE GUANHAES;3128006;GUANHÃES;Prisional;34;N
+2026;10;000039;SRE GUANHAES;3128006;GUANHÃES;Prisional;33;N
 2026;10;000039;SRE GUANHAES;3136553;JOSÉ RAYDAN;Educação Especial - AEE (Sala de Recursos);14;N
 2026;10;000039;SRE GUANHAES;3148400;PAULISTAS;Educação Especial - AEE (Sala de Recursos);17;N
 2026;10;000039;SRE GUANHAES;3156809;SABINÓPOLIS;Educação Especial - AEE (Sala de Recursos);8;N
@@ -6761,8 +6764,8 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;10;000041;SRE METROPOLITANA C;3137601;LAGOA SANTA;Educação Especial - AEE (Sala de Recursos);36;N
 2026;10;000041;SRE METROPOLITANA C;3143708;MORRO DO PILAR;Educação Especial - AEE (Sala de Recursos);6;N
 2026;10;000041;SRE METROPOLITANA C;3149309;PEDRO LEOPOLDO;Educação Especial - AEE (Sala de Recursos);87;N
-2026;10;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Educação Especial - AEE (Sala de Recursos);247;N
-2026;10;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Prisional;576;N
+2026;10;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Educação Especial - AEE (Sala de Recursos);248;N
+2026;10;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Prisional;570;N
 2026;10;000041;SRE METROPOLITANA C;3154606;RIBEIRÃO DAS NEVES;Socioeducativo;32;N
 2026;10;000041;SRE METROPOLITANA C;3157807;SANTA LUZIA;Educação Especial - AEE (Sala de Recursos);172;N
 2026;10;000041;SRE METROPOLITANA C;3157807;SANTA LUZIA;Prisional;39;N
@@ -6834,7 +6837,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;10;000044;SRE JANAUBA;3166956;SERRANÓPOLIS DE MINAS;Educação Especial - AEE (Sala de Recursos);19;N
 2026;10;000044;SRE JANAUBA;3171030;VERDELÂNDIA;Educação Especial - AEE (Sala de Recursos);45;N
 2026;10;000045;SRE PARA DE MINAS;3100203;ABAETÉ;Educação Especial - AEE (Sala de Recursos);24;N
-2026;10;000045;SRE PARA DE MINAS;3107406;BOM DESPACHO;Educação Especial - AEE (Sala de Recursos);76;N
+2026;10;000045;SRE PARA DE MINAS;3107406;BOM DESPACHO;Educação Especial - AEE (Sala de Recursos);80;N
 2026;10;000045;SRE PARA DE MINAS;3117603;CONCEIÇÃO DO PARÁ;Educação Especial - AEE (Sala de Recursos);12;N
 2026;10;000045;SRE PARA DE MINAS;3123205;DORES DO INDAIÁ;Educação Especial - AEE (Sala de Recursos);;S
 2026;10;000045;SRE PARA DE MINAS;3126000;FLORESTAL;Educação Especial - AEE (Sala de Recursos);30;N
@@ -6845,7 +6848,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;10;000045;SRE PARA DE MINAS;3145802;ONÇA DE PITANGUI;Educação Especial - AEE (Sala de Recursos);;S
 2026;10;000045;SRE PARA DE MINAS;3146404;PAINEIRAS;Educação Especial - AEE (Sala de Recursos);15;N
 2026;10;000045;SRE PARA DE MINAS;3147105;PARÁ DE MINAS;Educação Especial - AEE (Sala de Recursos);70;N
-2026;10;000045;SRE PARA DE MINAS;3147105;PARÁ DE MINAS;Prisional;155;N
+2026;10;000045;SRE PARA DE MINAS;3147105;PARÁ DE MINAS;Prisional;153;N
 2026;10;000045;SRE PARA DE MINAS;3149606;PEQUI;Educação Especial - AEE (Sala de Recursos);;S
 2026;10;000045;SRE PARA DE MINAS;3151404;PITANGUI;Educação Especial - AEE (Sala de Recursos);17;N
 2026;10;000045;SRE PARA DE MINAS;3163102;SÃO JOSÉ DA VARGINHA;Educação Especial - AEE (Sala de Recursos);;S
@@ -6854,7 +6857,7 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;10;000046;SRE PIRAPORA;3135605;JEQUITAÍ;Educação Especial - AEE (Sala de Recursos);12;N
 2026;10;000046;SRE PIRAPORA;3137304;LAGOA DOS PATOS;Educação Especial - AEE (Sala de Recursos);13;N
 2026;10;000046;SRE PIRAPORA;3151206;PIRAPORA;Educação Especial - AEE (Sala de Recursos);27;N
-2026;10;000046;SRE PIRAPORA;3151206;PIRAPORA;Prisional;66;N
+2026;10;000046;SRE PIRAPORA;3151206;PIRAPORA;Prisional;67;N
 2026;10;000046;SRE PIRAPORA;3151206;PIRAPORA;Socioeducativo;7;N
 2026;10;000046;SRE PIRAPORA;3152131;PONTO CHIQUE;Educação Especial - AEE (Sala de Recursos);8;N
 2026;10;000046;SRE PIRAPORA;3157609;SANTA FÉ DE MINAS;Educação Especial - AEE (Sala de Recursos);17;N
@@ -6867,4 +6870,4 @@ ano;mes;cod_sre;nome_sre;cod_municipio_ibge;nome_municipio;especificidade;qtd_ma
 2026;10;000047;SRE UNAI;3126208;FORMOSO;Educação Especial - AEE (Sala de Recursos);30;N
 2026;10;000047;SRE UNAI;3170404;UNAÍ;Educação Especial - AEE (Sala de Recursos);76;N
 2026;10;000047;SRE UNAI;3170404;UNAÍ;Prisional;55;N
-2026;10;000047;SRE UNAI;3170404;UNAÍ;Socioeducativo;35;N
+2026;10;000047;SRE UNAI;3170404;UNAÍ;Socioeducativo;36;N
