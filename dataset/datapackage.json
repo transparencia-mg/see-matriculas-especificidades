@@ -1,0 +1,224 @@
+{
+  "name": "see-matriculas-especificidades",
+  "owner_org": "secretaria-de-estado-de-educacao-de-minas-gerais",
+  "profile": "data-package",
+  "resources": [
+    {
+      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "see-matriculas-especificidades-2023",
+      "path": "data/see-matriculas-especificidades-2023.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "ano",
+            "type": "integer"
+          },
+          {
+            "name": "mes",
+            "type": "integer"
+          },
+          {
+            "name": "cod_sre",
+            "type": "integer"
+          },
+          {
+            "name": "nome_sre",
+            "type": "string"
+          },
+          {
+            "name": "cod_municipio_ibge",
+            "type": "integer"
+          },
+          {
+            "name": "nome_municipio",
+            "type": "string"
+          },
+          {
+            "name": "especificidade",
+            "type": "string"
+          },
+          {
+            "name": "qtd_matriculas",
+            "type": "integer"
+          },
+          {
+            "name": "suprimido",
+            "type": "string"
+          }
+        ]
+      },
+      "scheme": "file",
+      "title": "Insira um título humanamente legível para este recurso."
+    },
+    {
+      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "see-matriculas-especificidades-2024",
+      "path": "data/see-matriculas-especificidades-2024.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "ano",
+            "type": "integer"
+          },
+          {
+            "name": "mes",
+            "type": "integer"
+          },
+          {
+            "name": "cod_sre",
+            "type": "integer"
+          },
+          {
+            "name": "nome_sre",
+            "type": "string"
+          },
+          {
+            "name": "cod_municipio_ibge",
+            "type": "integer"
+          },
+          {
+            "name": "nome_municipio",
+            "type": "string"
+          },
+          {
+            "name": "especificidade",
+            "type": "string"
+          },
+          {
+            "name": "qtd_matriculas",
+            "type": "integer"
+          },
+          {
+            "name": "suprimido",
+            "type": "string"
+          }
+        ]
+      },
+      "scheme": "file",
+      "title": "Insira um título humanamente legível para este recurso."
+    },
+    {
+      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "see-matriculas-especificidades-2025",
+      "path": "data/see-matriculas-especificidades-2025.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "ano",
+            "type": "integer"
+          },
+          {
+            "name": "mes",
+            "type": "integer"
+          },
+          {
+            "name": "cod_sre",
+            "type": "integer"
+          },
+          {
+            "name": "nome_sre",
+            "type": "string"
+          },
+          {
+            "name": "cod_municipio_ibge",
+            "type": "integer"
+          },
+          {
+            "name": "nome_municipio",
+            "type": "string"
+          },
+          {
+            "name": "especificidade",
+            "type": "string"
+          },
+          {
+            "name": "qtd_matriculas",
+            "type": "integer"
+          },
+          {
+            "name": "suprimido",
+            "type": "string"
+          }
+        ]
+      },
+      "scheme": "file",
+      "title": "Insira um título humanamente legível para este recurso."
+    },
+    {
+      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "hashing": "md5",
+      "name": "see-matriculas-especificidades-2026",
+      "path": "data/see-matriculas-especificidades-2026.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "ano",
+            "type": "integer"
+          },
+          {
+            "name": "mes",
+            "type": "integer"
+          },
+          {
+            "name": "cod_sre",
+            "type": "integer"
+          },
+          {
+            "name": "nome_sre",
+            "type": "string"
+          },
+          {
+            "name": "cod_municipio_ibge",
+            "type": "integer"
+          },
+          {
+            "name": "nome_municipio",
+            "type": "string"
+          },
+          {
+            "name": "especificidade",
+            "type": "string"
+          },
+          {
+            "name": "qtd_matriculas",
+            "type": "integer"
+          },
+          {
+            "name": "suprimido",
+            "type": "string"
+          }
+        ]
+      },
+      "scheme": "file",
+      "title": "Insira um título humanamente legível para este recurso."
+    }
+  ],
+  "title": "See matriculas especificidades"
+}
